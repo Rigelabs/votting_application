@@ -1,0 +1,2 @@
+2 3 1
+Candindate ID :2 Voter ID 3 Vote 1
